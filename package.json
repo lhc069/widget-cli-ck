@@ -1,0 +1,22 @@
+{
+  "name": "widget-cli-ck",
+  "version": "1.0.0",
+  "description": "auto generate widget component & page template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lhc069/widget-cli-ck.git"
+  },
+  "keywords": [
+    "w-cli"
+  ],
+  "author": "clark-hanchun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lhc069/widget-cli-ck/issues"
+  },
+  "homepage": "https://github.com/lhc069/widget-cli-ck#readme"
+}
